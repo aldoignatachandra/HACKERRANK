@@ -30,7 +30,7 @@
 
 #
 ### Problem Solving
-| Star | Challenge                       | Solution | Difficulty |
+| Star | Day | Challenge                       | Solution | Difficulty |
 |-- |:---:|:-----------------------------:|:--------:|:----------:|
 |⭐|[Solve Me First]()| [JavaScript]() | Easy |
 |⭐|[Simple Array Sum]()| [JavaScript]() | Easy |
