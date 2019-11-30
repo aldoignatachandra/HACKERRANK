@@ -32,7 +32,7 @@
 ### Problem Solving
 | Star | Challenge                       | Solution | Difficulty |
 |-- |:-----------------------------:|:--------:|:----------:|
-|⭐|[Solve Me First]()| [JavaScript]() | Easy |
-|⭐|[Simple Array Sum]()| [JavaScript]() | Easy |
-|⭐|[Compare The Triplets]()| [JavaScript]() | Easy |
-|⭐|[A Very Big Sum]()| [JavaScript]() | Easy |
+|⭐|[Solve Me First](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/ProblemSolving/SolveMeFirst)| [JavaScript](https://github.com/aldoignatachandra/HACKERRANK/blob/master/Practice/ProblemSolving/SolveMeFirst/Solution.js) | Easy |
+|⭐|[Simple Array Sum](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/ProblemSolving/SimpleArraySum)| [JavaScript](https://github.com/aldoignatachandra/HACKERRANK/blob/master/Practice/ProblemSolving/SimpleArraySum/Solution.js) | Easy |
+|⭐|[Compare The Triplets](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/ProblemSolving/CompareTheTriplets)| [JavaScript](https://github.com/aldoignatachandra/HACKERRANK/blob/master/Practice/ProblemSolving/CompareTheTriplets/Solution.js) | Easy |
+|⭐|[A Very Big Sum](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/ProblemSolving/AVeryBigSum)| [JavaScript](https://github.com/aldoignatachandra/HACKERRANK/blob/master/Practice/ProblemSolving/AVeryBigSum/Solution.js) | Easy |
