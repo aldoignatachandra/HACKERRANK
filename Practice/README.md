@@ -27,3 +27,12 @@
 |⭐| 8 |[Create a Button](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day8/CreateAButton)| [JavaScript,CSS,HTML](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day8/CreateAButton) | Easy |
 |⭐| 8 |[Buttons Container](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day8/ButtonsContainer)| [JavaScript, CSS, HTML](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day8/ButtonsContainer) | Easy |
 |⭐| 9 |[Binary Calculator](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day9/BinaryCalculator)| [JavaScript, CSS, HTML](https://github.com/aldoignatachandra/HACKERRANK/tree/master/Practice/10DaysOfJavascript/Day9/BinaryCalculator) | Medium |
+
+#
+### Problem Solving
+| Star | Challenge                       | Solution | Difficulty |
+|-- |:---:|:-----------------------------:|:--------:|:----------:|
+|⭐|[Solve Me First]()| [JavaScript]() | Easy |
+|⭐|[Simple Array Sum]()| [JavaScript]() | Easy |
+|⭐|[Compare The Triplets]()| [JavaScript]() | Easy |
+|⭐|[A Very Big Sum]()| [JavaScript]() | Easy |
