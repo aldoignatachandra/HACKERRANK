@@ -30,8 +30,8 @@
 
 #
 ### Problem Solving
-| Star | Day | Challenge                       | Solution | Difficulty |
-|-- |:---:|:-----------------------------:|:--------:|:----------:|
+| Star | Challenge                       | Solution | Difficulty |
+|-- |:-----------------------------:|:--------:|:----------:|
 |⭐|[Solve Me First]()| [JavaScript]() | Easy |
 |⭐|[Simple Array Sum]()| [JavaScript]() | Easy |
 |⭐|[Compare The Triplets]()| [JavaScript]() | Easy |
