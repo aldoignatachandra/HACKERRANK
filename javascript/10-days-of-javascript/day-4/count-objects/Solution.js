@@ -1,9 +1,9 @@
-//SOLUTION
+// SOLUTION
 const getCount = (objects) => {
     return objects.filter(item => item.x === item.y).length
 }
 
-//TEST
+// TEST CASE
 console.log(getCount(
     [
         {x:1, y:1},

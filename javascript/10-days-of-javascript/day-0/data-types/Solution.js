@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const performOperation = (secondInteger, secondDecimal, secondString) => {
     const firstInteger = 4;
     const firstDecimal = 4.0;
@@ -12,5 +12,5 @@ const performOperation = (secondInteger, secondDecimal, secondString) => {
     console.log(firstString + secondString);
 }
 
-//TEST
+// TEST CASE
 performOperation(12, 4.32, "is the best place to learn and practice coding!");

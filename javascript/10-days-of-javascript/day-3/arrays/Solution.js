@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const getSecondLargest = (nums) => {
 
     var first = nums[0];
@@ -18,5 +18,5 @@ const getSecondLargest = (nums) => {
     return second;
 }
 
-//TEST
+// TEST CASE
 console.log(getSecondLargest([2,3,6,6,5]));

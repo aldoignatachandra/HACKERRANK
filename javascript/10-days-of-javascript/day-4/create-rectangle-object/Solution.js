@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const Rectangle = (a, b) => {
     let length = a;
     let width = b;
@@ -8,5 +8,5 @@ const Rectangle = (a, b) => {
     return {length, width, perimeter, area}
 }
 
-//TEST
+// TEST CASE
 console.log(Rectangle(4,5));

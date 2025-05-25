@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 class Polygon {
     constructor(sides) {        
         this.sides = sides;
@@ -8,6 +8,6 @@ class Polygon {
     } 
 }
 
-//TEST
+// TEST CASE
 let triangle = new Polygon([3, 4, 5]);
 console.log(triangle.perimeter());

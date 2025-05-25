@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const getLetter = (s) => {
     let letter;
 
@@ -23,5 +23,5 @@ const getLetter = (s) => {
     return letter;
 }
 
-//TEST
+// TEST CASE
 console.log(getLetter("adfgt"));

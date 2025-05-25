@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const getMaxLessThanK = (n, k) => {
     let max_anb = 0;
     for (let b = n; b > 0; b--) {
@@ -11,7 +11,7 @@ const getMaxLessThanK = (n, k) => {
     return max_anb;
 }
 
-//TEST
+// TEST CASE
 console.log(getMaxLessThanK(5,2));
 console.log(getMaxLessThanK(8,5));
 console.log(getMaxLessThanK(2,2));

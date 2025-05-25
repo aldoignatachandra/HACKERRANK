@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const vowelsAndConsonants = (s) => {
     const vowels = 'aeiou';
     var consonants = '';
@@ -14,5 +14,5 @@ const vowelsAndConsonants = (s) => {
     console.log(consonants);
 }
 
-//TEST
+// TEST CASE
 vowelsAndConsonants("javascriptloops");

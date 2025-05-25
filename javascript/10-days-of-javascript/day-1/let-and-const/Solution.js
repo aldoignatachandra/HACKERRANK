@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const main = (number) => {
     
     // let r = readLine();
@@ -16,5 +16,5 @@ const main = (number) => {
     }
 }
 
-//TEST
+// TEST CASE
 main(2.6);

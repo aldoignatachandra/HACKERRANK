@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const reverseString = (s) => {
     try {
         s = s.split("").reverse().join("");
@@ -9,6 +9,6 @@ const reverseString = (s) => {
     }
 }
 
-//TEST
+// TEST CASE
 reverseString("1234");
 reverseString(Number("1234"));

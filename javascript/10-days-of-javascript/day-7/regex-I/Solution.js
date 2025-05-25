@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const regexVar = (word) => {
     let re = /^([aeiou]).+\1$/;
 
@@ -6,7 +6,7 @@ const regexVar = (word) => {
     return word.match(re) === null ? false : true;
 }
 
-//TEST
+// TEST CASE
 console.log(regexVar("abcd"));
 console.log(regexVar("abcda"));
 console.log(regexVar("abcdo"));

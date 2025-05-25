@@ -1,10 +1,10 @@
-//SOLUTION
+// SOLUTION
 const isPositive = (a) => {
     if (a > 0) { return "YES" };
     throw Error (a < 0 ? "Negative Error" : "Zero Error");
 }
 
-//TEST
+// TEST CASE
 console.log(isPositive(2));
 console.log(isPositive(0));     //Throw Error in console (Zero Error)
 console.log(isPositive(6));

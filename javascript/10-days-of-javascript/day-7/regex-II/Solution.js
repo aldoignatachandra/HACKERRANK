@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const regexVar = (word) => {
     let re = /^(Mr|Mrs|Ms|Dr|Er)(\.)([a-zA-Z])*$/
 
@@ -6,7 +6,7 @@ const regexVar = (word) => {
     return word.match(re) === null ? false : true;
 }
 
-//TEST
+// TEST CASE
 console.log(regexVar("Mrs.Y"));
 console.log(regexVar("Dr#Joseph"));
 console.log(regexVar("Er .Abc"));

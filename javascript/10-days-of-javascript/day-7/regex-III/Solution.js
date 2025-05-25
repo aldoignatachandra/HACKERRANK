@@ -1,4 +1,4 @@
-//SOLUTION
+// SOLUTION
 const regexVar = (word) => {
     let re = /\d+/g
 
@@ -11,5 +11,5 @@ const regexVar = (word) => {
     }
 }
 
-//TEST
+// TEST CASE
 regexVar("102, 1948948 and 1.3 and 4.5");
