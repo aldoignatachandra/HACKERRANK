@@ -1,5 +1,5 @@
 // Solution to the 'Maximum Perimeter Triangle' problem from HackerRank
-// Problem Link: https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem?isFullScreen=true
+// Problem Link: https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem
 
 function maximumPerimeterTriangle(sticks) {
   sticks.sort((a, b) => a - b);
