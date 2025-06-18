@@ -6,11 +6,11 @@ function plusMinus(arr) {
   let negativeCount = 0;
   let zeroCount = 0;
 
-  arr.forEach((num) => {
+  for (const num of arr) {
     if (num > 0) positiveCount++;
     else if (num < 0) negativeCount++;
     else zeroCount++;
-  });
+  }
 
   const totalCount = arr.length;
 
